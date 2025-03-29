@@ -5,8 +5,7 @@ List Know Repository for FDroid (F-Droid)
 
 
 ## F-Droid
-https://f-droid.org/repo
-
+https://f-droid.org/repo? 
 * fingerprint: *
 43 23 8D 51 2C 1E 5E B2 D6 56 9F 4A 3A FB F5 52 34 18 B8 2E 0A 3E D1 55 27 70 AB B9 A9 C9 CC AB
 
@@ -19,8 +18,7 @@ https://f-droid.org/archive
 
 
 ## Guardian Project
-https://guardianproject.info/fdroid/repo
-
+https://guardianproject.info/fdroid/repo? 
 * fingerprint: *
 B7 C2 EE FD 8D AC 78 06 AF 67 DF CD 92 EB 18 12 6B C0 83 12 A7 F2 D6 F3 86 2E 46 01 3C 7A 61 35
 
@@ -33,43 +31,37 @@ B7 C2 EE FD 8D AC 78 06 AF 67 DF CD 92 EB 18 12 6B C0 83 12 A7 F2 D6 F3 86 2E 46
 
 
 ## IzzyOnDroid
-https://apt.izzysoft.de/fdroid/repo
-
+https://apt.izzysoft.de/fdroid/repo? 
 * fingerprint: *
 3B F0 D6 AB FE AE 2F 40 17 07 B6 D9 66 BE 74 3B F0 EE E4 9C 25 61 B9 BA 39 07 37 11 F6 28 93 7A
 
 
 ## microG
-https://microg.org/fdroid/repo
-
+https://microg.org/fdroid/repo? 
 * fingerprint: *
 9B D0 67 27 E6 27 96 C0 13 0E B6 DA B3 9B 73 15 74 51 58 2C BD 13 8E 86 C4 68 AC C3 95 D1 41 65
 
 
 ## Netsyms
-https://repo.netsyms.com/fdroid/repo
-
+https://repo.netsyms.com/fdroid/repo? 
 * fingerprint: *
 25 81 BA 7B 32 D3 AB 44 31 80 C4 08 7C AB 6A 7E 8F B2 58 D3 A6 E9 88 70 EC B3 C6 75 E4 D6 44 89
 
 
 ## Bromite
-https://fdroid.bromite.org/fdroid/repo
-
+https://fdroid.bromite.org/fdroid/repo? 
 * fingerprint: *
 E1 EE 5C D0 76 D7 B0 DC 84 CB 2B 45 FB 78 B8 6D F2 EB 39 A3 B6 C5 6B A3 DC 29 2A 5E 0C 3B 95 04
 
 
 ## Molly FOSS
-https://molly.im/fdroid/foss/fdroid/repo
-
+https://molly.im/fdroid/foss/fdroid/repo? 
 * fingerprint: *
 51 98 DA EF 37 FC 23 C1 4D 5E E3 23 05 B2 AF 45 78 7B D7 DF 20 34 DE 33 AD 30 2B DB 34 46 DF 74
 
 
 ## NewPipe
-https://archive.newpipe.net/fdroid/repo
-
+https://archive.newpipe.net/fdroid/repo? 
 * fingerprint: *
 E2 40 2C 78 F9 B9 7C 6C 89 E9 7D B9 14 A2 75 1F DA 1D 02 FE 20 39 CC 08 97 A4 62 BD B5 7E 75 01
 
