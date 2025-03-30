@@ -127,8 +127,7 @@ BC 54 EA 6F D1 CD 51 75 BC CC C4 7C 56 1C 57 26 E1 C3 ED 7E 68 6B 6D B4 B1 8B AC
 
 
 ## Briar Project
-https://briarproject.org/fdroid/repo
-
+https://briarproject.org/fdroid/repo? 
 * fingerprint: *
 1F B8 74 BE E7 27 6D 28 EC B2 C9 B0 6E 8A 12 2E C4 BC B4 00 81 61 43 6C E4 74 C2 57 CB F4 9B D6
 
@@ -141,50 +140,43 @@ https://briarproject.org/fdroid/archive
 
 
 ## Wind Offline
-https://guardianproject-wind.s3.amazonaws.com/fdroid/repo
-
+https://guardianproject-wind.s3.amazonaws.com/fdroid/repo? 
 * fingerprint: *
 18 2C F4 64 D2 19 D3 40 DA 44 3C 62 15 51 98 E3 99 FE C1 BC 43 79 30 9B 77 5D D9 FC 97 ED 97 E1
 
 
 ## Nanolx
-https://nanolx.org/fdroid/repo
-
+https://nanolx.org/fdroid/repo? 
 * fingerprint: *
 86 2E D9 F1 3A 39 81 43 2B F8 6F E9 3D 14 59 6B 38 1D 75 BE 83 A1 D6 16 E2 D4 4A 12 65 4A D0 15
 
 
 ## Metatrans Apps
-https://fdroid.metatransapps.com/fdroid/repo
-
+https://fdroid.metatransapps.com/fdroid/repo? 
 * fingerprint: *
 21 40 27 CD 55 30 0B 83 7A 93 B4 37 17 B1 90 DD 48 67 CD B2 0F AA BD 88 53 DE F5 5B D0 FF 6A 0B
 
 
 ## Cryptomator
-https://static.cryptomator.org/android/fdroid/repo
-
+https://static.cryptomator.org/android/fdroid/repo? 
 * fingerprint: *
 F7 C3 EC 3B 0D 58 8D 3C B5 29 83 E9 EB 1A 74 21 C9 3D 43 39 A2 86 39 8E 71 D7 B6 51 E8 D8 EC DD
 
 
 ## TwinHelix
-https://fdroid.twinhelix.com/fdroid/repo
-
+https://fdroid.twinhelix.com/fdroid/repo? 
 * fingerprint: *
 7B 03 B0 23 22 09 B2 1B 10 A3 0A 63 89 7D 3C 6B CA 4F 58 FE 29 BC 34 77 E8 E3 D8 CF 8E 30 40 28
 
 
 ## Revolt
-https://fdroid.revolt.chat/repo
-
+https://fdroid.revolt.chat/repo? 
 * fingerprint: *
 0A 9D 2F 61 C8 65 98 01 71 1E 22 17 78 62 F8 4C 81 34 96 6F 42 79 73 03 7A 8F DF AC FF 07 C4 F2
 
 
 ## F-Droid Classic
-https://bubu1.eu/fdroidclassic/fdroid/repo
-
+https://bubu1.eu/fdroidclassic/fdroid/repo? 
 * fingerprint: *
 51 87 CF D9 9F 08 4F FA B2 AD 60 D9 D1 0B 39 20 3B 89 A4 6D D4 86 23 97 FE 1B 1A 4F 3D 46 62 7A
 
@@ -204,45 +196,33 @@ https://fdroid.typeblog.net/
 
 
 ## kaffeemitkoffein.de
-https://kaffeemitkoffein.de/fdroid/repo
-
+https://kaffeemitkoffein.de/fdroid/repo? 
 * fingerprint: *
 2F 27 5C B8 37 35 FE 79 75 44 9C E8 00 CA 84 07 B5 01 9D 5F 7B 6A BC B3 0F 36 51 C5 20 A3 72 61
 
 
 ## nailyk's
-https://releases.nailyk.fr/repo
-
+https://releases.nailyk.fr/repo? 
 * fingerprint: *
 05 F2 69 58 DE 41 24 82 FC 86 81 B4 B3 4E EC A3 7F C0 64 DF 98 B8 EF DC 98 EC EB AB 85 84 F0 78
 
 
 ## Maxxis
-https://pili.qi0.de/fdroid/repo
-
+https://pili.qi0.de/fdroid/repo? 
 * fingerprint: *
 83 16 1D 8D 5E C8 4B A3 26 66 EC E6 2E 40 D5 78 34 2C AD 3B 03 EA EE CA 2E 75 E3 96 12 5F DA A0
 
 
 ## xarantolus
-https://raw.githubusercontent.com/xarantolus/fdroid/main/fdroid/repo
-
+https://raw.githubusercontent.com/xarantolus/fdroid/main/fdroid/repo? 
 * fingerprint: *
 08 08 98 AE 43 09 AE CE B5 89 15 E4 3A 4B 7C 4A 3E 2C DA 40 C9 17 38 E2 C0 2F 58 33 9A B2 FB D7
 
 
 ## Submarine
-https://submarine.strangled.net/fdroid/repo
-
+https://submarine.strangled.net/fdroid/repo? 
 * fingerprint: *
 3D B2 D0 9F 57 32 45 E0 05 B6 A5 4E B5 EB F6 E6 A3 51 D6 A5 16 1C FE EF F1 44 2C 93 95 97 C3 1B
-
-
-## mobilsicher 
-https://repo.mobilsicher.de/fdroid/repo
-
-* fingerprint: *
-D8 EE 66 0B 38 12 AA 2D F6 8D 8A 97 40 C0 2B 8C 53 15 C3 BB 09 11 E3 C2 23 A5 27 A3 C7 A9 74 95
 
 
 ## kuschku.de
