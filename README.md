@@ -49,16 +49,9 @@ https://repo.netsyms.com/fdroid/repo?
 25 81 BA 7B 32 D3 AB 44 31 80 C4 08 7C AB 6A 7E 8F B2 58 D3 A6 E9 88 70 EC B3 C6 75 E4 D6 44 89
 
 
-## Bromite
-https://fdroid.bromite.org/fdroid/repo? 
-* fingerprint: *
-E1 EE 5C D0 76 D7 B0 DC 84 CB 2B 45 FB 78 B8 6D F2 EB 39 A3 B6 C5 6B A3 DC 29 2A 5E 0C 3B 95 04
-
-
-## Molly FOSS
-https://molly.im/fdroid/foss/fdroid/repo? 
-* fingerprint: *
-51 98 DA EF 37 FC 23 C1 4D 5E E3 23 05 B2 AF 45 78 7B D7 DF 20 34 DE 33 AD 30 2B DB 34 46 DF 74
+Молли ФОСС
+https://molly.im/fdroid/foss/fdroid/repo ?
+отпечаток пальца: * 51 98 DA EF 37 FC 23 C1 4D 5E E3 23 05 B2 AF 45 78 7B D7 DF 20 34 DE 33 AD 30 2B DB 34 46 DF 74
 
 
 ## NewPipe
@@ -109,11 +102,6 @@ https://store.nethunter.com/repo?
 7E 41 8D 34 C3 AD 4F 3C 37 D7 E6 B0 FA CE 13 33 23 64 45 9C 86 21 34 EB 09 9A 3B DA 2C CF 44 94
 
 
-## Umbrella 
-https://secfirst.org/fdroid/repo? 
-* fingerprint: *
-39 EB 57 05 2F 8D 68 45 14 17 68 19 D1 64 5F 6A 0A 7B D9 43 DB C3 1A B1 01 94 90 06 AC 0B C2 28
-
 
 ## Patched Applications
 https://thecapslock.gitlab.io/fdroid-patched-apps/fdroid/repo? 
@@ -126,24 +114,6 @@ https://mobileapp.bitwarden.com/fdroid/repo?
 * fingerprint: *
 BC 54 EA 6F D1 CD 51 75 BC CC C4 7C 56 1C 57 26 E1 C3 ED 7E 68 6B 6D B4 B1 8B AC 84 3A 3E FE 6C
 
-
-## Briar Project
-https://briarproject.org/fdroid/repo? 
-* fingerprint: *
-1F B8 74 BE E7 27 6D 28 EC B2 C9 B0 6E 8A 12 2E C4 BC B4 00 81 61 43 6C E4 74 C2 57 CB F4 9B D6
-
-
-## Briar Project Archive
-https://briarproject.org/fdroid/archive
-
-* fingerprint: *
-1F B8 74 BE E7 27 6D 28 EC B2 C9 B0 6E 8A 12 2E C4 BC B4 00 81 61 43 6C E4 74 C2 57 CB F4 9B D6
-
-
-## Wind Offline
-https://guardianproject-wind.s3.amazonaws.com/fdroid/repo? 
-* fingerprint: *
-18 2C F4 64 D2 19 D3 40 DA 44 3C 62 15 51 98 E3 99 FE C1 BC 43 79 30 9B 77 5D D9 FC 97 ED 97 E1
 
 
 ## Nanolx
@@ -214,11 +184,6 @@ https://pili.qi0.de/fdroid/repo?
 83 16 1D 8D 5E C8 4B A3 26 66 EC E6 2E 40 D5 78 34 2C AD 3B 03 EA EE CA 2E 75 E3 96 12 5F DA A0
 
 
-## xarantolus
-https://raw.githubusercontent.com/xarantolus/fdroid/main/fdroid/repo? 
-* fingerprint: *
-08 08 98 AE 43 09 AE CE B5 89 15 E4 3A 4B 7C 4A 3E 2C DA 40 C9 17 38 E2 C0 2F 58 33 9A B2 FB D7
-
 
 ## Submarine
 https://submarine.strangled.net/fdroid/repo? 
@@ -254,11 +219,6 @@ https://freeyourgadget.codeberg.page/fdroid/repo
 CD 38 1E CC C4 65 AB 32 4E 21 BC C3 35 89 56 15 E0 7E 70 EE 11 E9 FD 1D F3 C0 20 C5 19 4F 00 B2
 
 
-## Funkwhale (status server 502)
-https://fdroid.funkwhale.audio/
-
-* fingerprint: *
-10 30 63 BC 71 89 C9 1C E7 27 DB F8 26 6B 07 66 25 18 09 6E 16 86 B6 A0 88 25 39 33 A3 D0 78 8F
 
 
 ## Friendiqa
