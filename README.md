@@ -313,13 +313,6 @@ https://codeberg.org/silkevicious/apkrepo/raw/branch/master/fdroid/repo
 DF DB 0A 58 E7 87 04 CA EB 60 93 89 B8 1A B2 BE 6A 09 06 62 F8 60 63 5D 76 0E 76 AC BC 70 0A F8
 
 
-## Simlar
-https://raw.githubusercontent.com/simlar/simlar-fdroid-repo/master/fdroid/repo
-
-* fingerprint: *
-EE 2C 07 5B AE 1D 41 BB D9 C2 19 5C 4C AE 14 0C 78 9C 9E D2 E0 D6 C6 A5 69 10 8E 81 F6 25 D0 49
-
-
 ## SpiritCroc's Apps
 https://s2.spiritcroc.de/fdroid/repo?
 66 12 AD E7 E9 31 74 A5 89 CF 5B A2 6E D3 AB 28 23 1A 78 96 40 54 6C 8F 30 37 5E F0 45 BC 92 42
@@ -365,9 +358,7 @@ https://fdroid.storchp.de/fdroid/repo
 
 
 ## GitJournal
-https://gitjournal.io/fdroid/repo
-
-* fingerprint: *
+https://gitjournal.io/fdroid/repo?
 E2 EE 4A A4 38 0F 0D 3B 3C F8 1E B1 7F 5E 48 F8 27 C3 AA 77 12 2D 9A D3 30 CC 44 16 50 89 45 74
 
 
@@ -384,25 +375,12 @@ https://fdroidarchive.frostnerd.com
 * fingerprint: *
 74 BB 58 0F 26 3E C8 9E 15 C2 07 29 8D EC 86 1B 50 69 51 75 50 FE 0F 1D 85 2F 16 FA 61 1D 2D 26
 
-
-## 2br-2b's
-https://raw.githubusercontent.com/2br-2b/Fdroid-repo/master/fdroid/repo
-
-* fingerprint: *
-90 B5 B0 DD E2 0A 84 FB 42 CB 96 0F 41 D2 79 B0 D3 BB 86 57 8A 42 E7 73 36 4A 55 34 C0 E8 D2 7A
-
-
 ## F-Droid Shizuku Privileged Extension 
-https://depau.github.io/fdroid_shizuku_privileged_extension/fdroid/repo
-
-* fingerprint: *
+https://depau.github.io/fdroid_shizuku_privileged_extension/fdroid/repo?
 64 B2 ED 80 A4 4B 62 AF 47 E6 E8 F8 E9 2D 8C D9 37 1F 97 B9 1D CC B0 17 98 54 82 79 DF 0A F6 9E
 
-
 ## Monerujo
-https://f-droid.monerujo.io/fdroid/repo
-
-* fingerprint: *
+https://f-droid.monerujo.io/fdroid/repo?
 A8 2C 68 E1 4A F0 AA 6A 2E C2 0E 6B 27 2E FF 25 E5 A0 38 F3 F6 58 84 31 6E 0F 5E 0D 91 E7 B7 13
 
 
@@ -415,9 +393,7 @@ https://github.com/onionshare/onionshare-android-nightly/raw/master/fdroid/repo
 
 
 ## I2P
-https://eyedeekay.github.io/fdroid/repo
-
-* fingerprint: *
+https://eyedeekay.github.io/fdroid/repo?
 22 65 8C C6 9F 48 D6 3F 63 C3 D6 4E 20 41 C8 17 14 E2 74 9F 3F 6E 54 45 C8 25 29 7A 00 DD C5 B6
 
 
@@ -436,16 +412,11 @@ https://lucaapp.gitlab.io/fdroid-repository/fdroid/repo
 
 
 ## Cake Labs
-https://fdroid.cakelabs.com/
-
-* fingerprint: *
-EA 44 EF AE E0 B6 41 EE 7A 03 2D 39 7D 5D 97 6F 9C 4E 5E 1E D2 6E 11 C7 57 02 D0 64 E5 5F 87 55
-
+https://fdroid.cakelabs.com/repo?
+EA44EFAEE0B641EE7A032D397D5D976F9C4E5E1ED26E11C75702D064E55F8755
 
 ## ltt.rs
-https://ltt.rs/fdroid/repo
-
-* fingerprint: *
+https://ltt.rs/fdroid/repo?
 9C 2E 57 C8 5C 27 9E 5E 1A 42 7F 6E 87 92 7F C1 E2 27 8F 62 D6 1D 7F CE FD E9 34 6E 56 8C CF 86
 
 
@@ -472,9 +443,7 @@ https://codeberg.org/timedin/fdroid-repo/raw/branch/main/repo
 
 
 ## Zimbelstern's
-https://zimbelstern.eu/fdroid/repo
-
-* fingerprint: *
+https://zimbelstern.eu/fdroid/repo?
 28 51 58 DE CE F3 7C B8 DE 7C 5A F1 48 18 AC BF 4A 9B 1F BE 63 11 67 58 EF C2 67 F9 71 CA 23 AA
 
 
@@ -486,8 +455,7 @@ https://julianfairfax.gitlab.io/fdroid-repo/fdroid/repo
 
 
 ## NovySoft
-https://fdroid.novy.software/repo
-* fingerprint: *
+https://fdroid.novy.software/repo?
 B6 D1 CE 7F 02 42 DE 73 75 60 D3 30 78 65 32 49 CC 3F 18 12 76 00 AD 72 28 8E 75 D3 9A 9E DE E3
 
 
