@@ -472,8 +472,6 @@ https://breezy-weather.github.io/fdroid-repo/fdroid/repo
 34 80 A7 BB 2A 29 6D 8F 98 CB 90 D2 30 91 99 B5 B9 51 9C 1B 31 97 8D BC D8 77 AD B1 02 AF 35 EE
 
 
-
-
 ## liyuqihxc
 https://raw.githubusercontent.com/liyuqihxc/fdroid_repo/master
 
