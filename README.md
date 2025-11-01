@@ -255,93 +255,54 @@ B9 0F C7 69 1E C5 BE 97 7D CB BC B1 8C 39 84 C7 94 CC AF A5 BB 87 12 ED 2D 64 F9
 
 
 ## J2ghz's
-https://j2ghz.github.io/repo
-
+https://j2ghz.github.io/repo?
 * fingerprint: *
 03 9B C4 1C 19 89 76 8B 5E 62 5A 5A 6A A0 CA DF E7 56 03 21 70 D4 9B 4E 44 1F E9 5C 74 1C 09 A2
 
 
 ## mtmayrhofer
-https://juwelierkassa.at/fdroid/repo
-
+https://juwelierkassa.at/fdroid/repo?
 * fingerprint: *
 93 02 70 24 8A 02 20 2D 51 75 18 47 4D 0C 02 15 07 0A 53 7D E3 68 1D 87 21 D8 4A 9B 16 93 91 5E
 
 
 ## Lagrange Pre-Release
-https://skyjake.github.io/fdroid/repo
-
+https://skyjake.github.io/fdroid/repo?
 * fingerprint: *
 46 AE A2 F2 D8 60 47 AD 65 DA 95 51 26 C6 53 2F 79 B0 5A F2 BF EF FC 5C F1 B4 67 A7 9E 68 6F 86
 
 
 ## LUKI e.V.
-https://repo.librechurch.org/fdroid
-
-* fingerprint: *
-28 10 49 CD A5 2E AE 48 3E E3 E3 13 7D A2 32 ED 48 B1 4E FF D6 ED 6D 33 1D 52 22 93 CC 0E 67 C5
+https://repo.librechurch.org/fdroid/repo?
+281049CDA52EAE483EE3E3137DA232ED48B14EFFD6ED6D331D522293CC0E67C5
 
 
 ## lubl
-https://f.lubl.de/repo
-
-* fingerprint: *
+https://f.lubl.de/repo?
 C7 7F F6 04 CD 54 E8 4A 3A BD DF F1 73 01 E5 75 34 51 BA 84 76 EE DF 43 8F F2 55 54 D2 D6 A0 BE
 
 
 ## Molly
-https://molly.im/fdroid/repo
-
-* fingerprint: *
+https://molly.im/fdroid/repo?
 3B 7E 93 B1 FE 32 C6 E3 5A 93 D6 DD FC 5A FB EB 12 39 A7 C6 EA 6A F2 0F F3 3E D5 3C DC 38 B0 4A
 
 
-## Nucleus 
-https://raw.githubusercontent.com/nucleus-ffm/Nucleus-F-Droid-Repo/master/fdroid/repo
-
-* fingerprint: *
-A3 2D E9 12 7A 69 61 C5 BE BF 41 2C 21 28 31 2C DF E7 0F 2D 7A D4 44 09 15 38 43 26 94 B7 76 FF
-
-
-## Rafael Venâncio
-https://raw.githubusercontent.com/rafaelvenancio98/fdroid/master/fdroid/repo
-
-* fingerprint: *
-8B 22 26 37 DC B9 C1 3B 4A C5 2C 8B 9A C8 3C 1F A3 87 F0 3F 46 B6 1B 53 39 B3 AA 96 68 F7 50 CD
-
-
 ## obfusk's
-https://obfusk.dev/fdroid/repo
-
-* fingerprint: *
-2A 21 B7 FF C9 3B 87 87 24 B1 99 1C 05 DA E1 13 C7 2B 93 A5 56 C1 93 F4 9B 5D 33 42 88 47 98 B7
-
-
-## PartidoPirata
-https://fdroid.partidopirata.com.ar/fdroid/repo
-
-* fingerprint: *
-3D F6 96 9E A3 A2 18 6D 8A 5D B0 08 84 B3 F4 2F 16 49 31 E8 CF AF D7 CC 48 26 3C AD 13 61 A1 D5
-
+https://obfusk.dev/fdroid/repo? 
+2A21B7FFC93B878724B1991C05DAE113C72B93A556C193F49B5D3342884798B7
 
 ## RedReader
-https://redreader.org/fdroid/repo
-
-* fingerprint: *
+https://redreader.org/fdroid/repo?
 29 C6 F7 99 85 41 0F 64 13 20 38 A2 CC 1E 7E 8E 26 4E 40 AB 83 39 9D 60 9C E8 13 D2 FF 41 9B 2E
 
 
 ## Rohit's
-https://thedoc.eu.org/fdroid/repo
-
-* fingerprint: *
+https://thedoc.eu.org/fdroid/repo?
 B1 35 8F 5B 94 2E 56 76 B2 93 5B 83 F3 9E 3B AA 36 3F 3F DA 9E 53 DB 62 11 35 51 D1 4B 09 A1 73
 
 
 ## Session
-https://fdroid.getsession.org/fdroid/repo
-
-* fingerprint: *
+https://fdroid.getsession.org/fdroid/repo?
 DB 0E 52 97 EB 65 CC 22 D6 BD 93 C8 69 94 3B DC FC B6 A0 7D C6 9A 48 A0 DD 8C 7B A6 98 EC 04 E6
 
 
@@ -359,17 +320,8 @@ https://raw.githubusercontent.com/simlar/simlar-fdroid-repo/master/fdroid/repo
 EE 2C 07 5B AE 1D 41 BB D9 C2 19 5C 4C AE 14 0C 78 9C 9E D2 E0 D6 C6 A5 69 10 8E 81 F6 25 D0 49
 
 
-## FeministWiki
-https://fdroid.feministwiki.org/fdroid/repo
-
-* fingerprint: *
-4E BB 6C EE C6 D8 A5 B8 4B F4 7C A7 19 36 9E 1A A0 38 D7 7B 3B BD 48 10 1A 15 38 63 2F 5A A4 93
-
-
 ## SpiritCroc's Apps
-https://s2.spiritcroc.de/fdroid/repo
-
-* fingerprint: *
+https://s2.spiritcroc.de/fdroid/repo?
 66 12 AD E7 E9 31 74 A5 89 CF 5B A2 6E D3 AB 28 23 1A 78 96 40 54 6C 8F 30 37 5E F0 45 BC 92 42
 
 
@@ -381,31 +333,14 @@ https://s2.spiritcroc.de/testing/fdroid/repo
 
 
 ## Unofficial ProtonMail
-https://unofficial-protonmail-repository.gitlab.io/unofficial-protonmail-repository/fdroid/repo
-
-* fingerprint: *
+https://unofficial-protonmail-repository.gitlab.io/unofficial-protonmail-repository/fdroid/repo?
 AA 2C CA 4D 52 9D 30 41 8E CF E6 C3 6C 37 8C 78 5D FF 96 96 DF 98 1A 08 83 A9 53 78 0A 3C A2 21
 
 
 ## VideLibri
-https://fdroid.videlibri.de/repo
-
-* fingerprint: *
+https://fdroid.videlibri.de/repo?
 38 89 88 E3 A5 3B 6F 91 D1 AE 39 78 4E A4 B5 F1 A1 2B 22 D3 4F 8E 33 63 E5 C7 F7 0A 1C 57 A6 F4
 
-
-## WOZ
-https://fdroid.woz.ch/fdroid/repo
-
-* fingerprint: *
-F1 9B B9 5E 4D D3 B7 49 06 E2 EF 0B A4 1E A6 F3 4A B8 2C 44 F7 8E 1B 95 05 FE 20 7D D5 E6 0C C2
-
-
-## Zevvle 
-https://fdroid.zevvle.com/
-
-* fingerprint: *
-B6 E8 0E 4D B4 00 B5 D1 6A 2C D5 D1 B2 D4 76 D1 75 5D 97 77 CE 13 5E 83 59 D1 66 A7 0B CD 12 A9
 
 
 ## Florian Obernberger's
