@@ -1,4 +1,4 @@
- #  F-Droid List Repository 2025
+7 #  F-Droid List Repository 2025
 
 List Know Repository for FDroid (F-Droid)
 
@@ -207,79 +207,42 @@ C0 0A 81 E4 4B FF 60 65 30 C4 C7 A2 13 7B AC 5F 1C 03 D2 FD EF 6D B3 B8 4C 71 38
 
 ## haagch
 https://haagch.frickel.club/files/fdroid/repo
-
 * fingerprint: *
 38 7A C9 E5 8C 94 81 A6 B1 A8 DC E5 3A 16 E5 36 45 DA 69 48 22 A8 FE 50 C8 77 EF B5 F4 2E 69 33
 
 
 ## Gadgetbridge nightly
 https://freeyourgadget.codeberg.page/fdroid/repo
-
 * fingerprint: *
 CD 38 1E CC C4 65 AB 32 4E 21 BC C3 35 89 56 15 E0 7E 70 EE 11 E9 FD 1D F3 C0 20 C5 19 4F 00 B2
 
 
-
-
 ## Friendiqa
-https://www.ma-nic.de/fdroid/repo
-
+https://www.ma-nic.de/fdroid/repo?
 * fingerprint: *
 17 96 61 DB B7 26 35 30 02 FD B7 71 DD 8F CA DC 90 7B A5 68 D4 4D AB A3 88 29 15 97 50 30 74 64
 
 
-## BeoCode 
-https://fdroid.beocode.eu/fdroid/repo
-
-* fingerprint: *
-28 36 0D DE BA 00 92 2B 15 6A 9B 03 B5 C9 6F EA 39 D2 39 F8 8F 1F BF A5 A8 15 72 91 74 9A A0 5A
-
-
 ## Grobox
-https://grobox.de/fdroid/repo
-
+https://grobox.de/fdroid/repo?
 * fingerprint: *
 28 E1 4F B3 B2 80 BC E8 FF 1E 0F 8E 82 72 6F F4 69 23 66 2C EC FF 2A 06 89 10 8C E1 9E 8B 34 7C
 
 
 ## insporation
-https://jhass.github.io/insporation/fdroid/repo
-
+https://jhass.github.io/insporation/fdroid/repo?
 * fingerprint: *
 EC 79 2A 58 B3 9D F9 FB B4 66 FB 10 0E 30 E3 84 2F 22 9F DB C6 E2 8D 32 C4 17 F6 A5 B3 0E CC AE
 
 
-## koyu.space
-https://fdroid.koyu.space/fdroid/repo
-
-* fingerprint: *
-0A CF 19 C0 AC EA 75 59 34 E0 06 76 D5 2E B2 F9 D6 8F 30 0C 05 2A 56 5B 45 9F E2 F5 E9 8D 23 7E
-
-
-## DivestOS Unofficial ( [end support](https://divestos.org/pages/news#end) )
-https://divestos.org/apks/unofficial/fdroid/repo
-
-* fingerprint: *
-A1 8C DB 92 F4 0E BF BB F7 78 A5 4F D1 2D BD 74 D9 0F 14 90 CB 9E F2 CC 6C 7E 68 2D D5 56 85 5D
-
-
-## DivestOS Official ( [end support](https://divestos.org/pages/news#end) )
-https://divestos.org/apks/official/fdroid/repo
-
-* fingerprint: *
-E4 BE 8D 6A BF A4 D9 D4 FE EF 03 CD DA 7F F6 2A 73 FD 64 B7 55 66 F6 DD 4E 5E 57 75 50 BE 84 67
-
-
 ## Corona Contact Tracing Germany 
-https://bubu1.eu/cctg/fdroid/repo
-
+https://bubu1.eu/cctg/fdroid/repo?
 * fingerprint: *
 F3 F3 0B 6D 21 2D 84 AE A6 04 C3 DF 00 E9 E4 D4 A3 91 94 A3 3B F6 EC 58 DB 53 AF 0A C4 B4 1B EC
 
 
 ## MM20
-https://fdroid.mm20.de/repo
-
+https://fdroid.mm20.de/repo?
 * fingerprint: *
 15 6F BA B9 52 F6 99 64 15 F1 98 F3 F2 96 28 D2 4B 30 E7 25 B0 F0 7A 2B 49 C3 A9 B5 16 1E EE 1A
 
