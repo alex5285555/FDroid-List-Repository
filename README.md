@@ -794,10 +794,5 @@ https://f5a.torus.icu/fdroid/repo
 5D 87 CE 1F AD 37 72 42 5C 2A 7E D9 87 A5 75 95 A2 0B 07 54 3B 95 95 A7 FD 2C ED 25 DF F3 CF 12
 
 
-## Gabbolx 
-https://raw.githubusercontent.com/Gabboxl/fdroids/master/fdroid/repo
-
-* fingerprint: *
-0E FE A0 B2 9F DB E6 D8 CB FF 4D F3 03 10 D7 6E 1A F9 87 D3 A0 6A FF A8 D7 8B A0 4E 2D EC 0B 79
 
 
