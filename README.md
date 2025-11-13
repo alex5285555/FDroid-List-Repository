@@ -22,7 +22,6 @@ https://guardianproject.info/fdroid/repo?
 B7 C2 EE FD 8D AC 78 06 AF 67 DF CD 92 EB 18 12 6B C0 83 12 A7 F2 D6 F3 86 2E 46 01 3C 7A 61 35
 
 
-## Guardian Project Archive
 https://guardianproject.info/fdroid/archive
 https://guardianproject.info/fdroid/repo? 
 B7 C2 EE FD 8D AC 78 06 AF 67 DF CD 92 EB 18 12 6B C0 83 12 A7 F2 D6 F3 86 2E 46 01 3C 7A 61 35
