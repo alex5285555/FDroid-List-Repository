@@ -7,7 +7,6 @@ List Know Repository for FDroid (F-Droid)
 
 ## F-Droid
 https://f-droid.org/repo? 
-* fingerprint: *
 43 23 8D 51 2C 1E 5E B2 D6 56 9F 4A 3A FB F5 52 34 18 B8 2E 0A 3E D1 55 27 70 AB B9 A9 C9 CC AB
 
 
@@ -20,12 +19,13 @@ https://f-droid.org/archive
 
 ## Guardian Project
 https://guardianproject.info/fdroid/repo? 
-* fingerprint: *
 B7 C2 EE FD 8D AC 78 06 AF 67 DF CD 92 EB 18 12 6B C0 83 12 A7 F2 D6 F3 86 2E 46 01 3C 7A 61 35
 
 
 ## Guardian Project Archive
 https://guardianproject.info/fdroid/archive
+https://guardianproject.info/fdroid/repo? 
+B7 C2 EE FD 8D AC 78 06 AF 67 DF CD 92 EB 18 12 6B C0 83 12 A7 F2 D6 F3 86 2E 46 01 3C 7A 61 35
 
 * fingerprint: *
 B7 C2 EE FD 8D AC 78 06 AF 67 DF CD 92 EB 18 12 6B C0 83 12 A7 F2 D6 F3 86 2E 46 01 3C 7A 61 35
@@ -33,7 +33,6 @@ B7 C2 EE FD 8D AC 78 06 AF 67 DF CD 92 EB 18 12 6B C0 83 12 A7 F2 D6 F3 86 2E 46
 
 ## IzzyOnDroid
 https://apt.izzysoft.de/fdroid/repo? 
-* fingerprint: *
 3B F0 D6 AB FE AE 2F 40 17 07 B6 D9 66 BE 74 3B F0 EE E4 9C 25 61 B9 BA 39 07 37 11 F6 28 93 7A
 
 
@@ -48,8 +47,7 @@ https://repo.netsyms.com/fdroid/repo?
 
 
 Молли ФОСС
-https://molly.im/fdroid/foss/fdroid/repo?
-отпечаток пальца: * 51 98 DA EF 37 FC 23 C1 4D 5E E3 23 05 B2 AF 45 78 7B D7 DF 20 34 DE 33 AD 30 2B DB 34 46 DF 74
+ 51 98 DA EF 37 FC 23 C1 4D 5E E3 23 05 B2 AF 45 78 7B D7 DF 20 34 DE 33 AD 30 2B DB 34 46 DF 74
 
 
 ## NewPipe
@@ -69,81 +67,70 @@ https://fdroid.libretro.com/repo?
 
 ## KDE Android
 https://cdn.kde.org/android/stable-releases/fdroid/repo? 
-* fingerprint: *
 13 78 4B A6 C8 0F F4 E2 18 1E 55 C5 6F 96 1E ED 58 44 CE A1 68 70 D3 B3 8D 58 78 0B 85 E1 15 8F
 
 
 ## KDE Android Nightly 
 https://cdn.kde.org/android/fdroid/repo? 
-* fingerprint: *
 B3 EB E1 0A FA 6C 5C 40 03 79 B3 44 73 E8 43 D6 86 C6 1A E6 AD 33 F4 23 C9 8A F9 03 F0 56 52 3F
 
 
 ## Calyx Institute (testing)
 https://calyxos.gitlab.io/calyx-fdroid-repo/fdroid/repo? 
-* fingerprint: *
 C4 4D 58 B4 54 7D E5 09 61 38 CB 0B 34 A1 CC 99 DA B3 B4 27 44 12 ED 75 3F CC BF C1 1D C1 B7 B6
 
 
-## Fedilab
+## Fedilabhttps://calyxos.gitlab.io/calyx-fdroid-repo/fdroid/repo? 
+C4 4D 58 B4 54 7D E5 09 61 38 CB 0B 34 A1 CC 99 DA B3 B4 27 44 12 ED 75 3F CC BF C1 1D C1 B7 B6
+
 https://fdroid.fedilab.app/repo? 
-* fingerprint: *
 11 F0 A6 99 10 A4 28 0E 2C D3 CC C3 14 63 37 D0 06 BE 53 9B 18 E1 A9 FE AC E1 5F F7 57 A9 4F EB
 
 
 ## Kali NetHunter
 https://store.nethunter.com/repo? 
-* fingerprint: *
 7E 41 8D 34 C3 AD 4F 3C 37 D7 E6 B0 FA CE 13 33 23 64 45 9C 86 21 34 EB 09 9A 3B DA 2C CF 44 94
 
 
 
 ## Patched Applications
 https://thecapslock.gitlab.io/fdroid-patched-apps/fdroid/repo? 
-* fingerprint: *
 31 3D 9E 6E 78 9F F4 E8 E2 D6 87 AA E3 1E EF 57 60 50 00 3E D6 79 63 30 18 21 AC 6D 37 63 E3 AC
 
 
 ## Bitwarden
 https://mobileapp.bitwarden.com/fdroid/repo? 
-* fingerprint: *
 BC 54 EA 6F D1 CD 51 75 BC CC C4 7C 56 1C 57 26 E1 C3 ED 7E 68 6B 6D B4 B1 8B AC 84 3A 3E FE 6C
 
 
 
 ## Nanolx
 https://nanolx.org/fdroid/repo? 
-* fingerprint: *
 86 2E D9 F1 3A 39 81 43 2B F8 6F E9 3D 14 59 6B 38 1D 75 BE 83 A1 D6 16 E2 D4 4A 12 65 4A D0 15
 
 
 ## Metatrans Apps
 https://fdroid.metatransapps.com/fdroid/repo? 
-* fingerprint: *
 21 40 27 CD 55 30 0B 83 7A 93 B4 37 17 B1 90 DD 48 67 CD B2 0F AA BD 88 53 DE F5 5B D0 FF 6A 0B
 
 
 ## Cryptomator
 https://static.cryptomator.org/android/fdroid/repo? 
-* fingerprint: *
 F7 C3 EC 3B 0D 58 8D 3C B5 29 83 E9 EB 1A 74 21 C9 3D 43 39 A2 86 39 8E 71 D7 B6 51 E8 D8 EC DD
 
 
 ## TwinHelix
 https://fdroid.twinhelix.com/fdroid/repo? 
-* fingerprint: *
 7B 03 B0 23 22 09 B2 1B 10 A3 0A 63 89 7D 3C 6B CA 4F 58 FE 29 BC 34 77 E8 E3 D8 CF 8E 30 40 28
 
 
 ## Revolt
 https://fdroid.revolt.chat/repo? 
-* fingerprint: *
 0A 9D 2F 61 C8 65 98 01 71 1E 22 17 78 62 F8 4C 81 34 96 6F 42 79 73 03 7A 8F DF AC FF 07 C4 F2
 
 
 ## F-Droid Classic
 https://bubu1.eu/fdroidclassic/fdroid/repo? 
-* fingerprint: *
 51 87 CF D9 9F 08 4F FA B2 AD 60 D9 D1 0B 39 20 3B 89 A4 6D D4 86 23 97 FE 1B 1A 4F 3D 46 62 7A
 
 
@@ -163,107 +150,87 @@ https://fdroid.typeblog.net/
 
 ## kaffeemitkoffein.de
 https://kaffeemitkoffein.de/fdroid/repo? 
-* fingerprint: *
 2F 27 5C B8 37 35 FE 79 75 44 9C E8 00 CA 84 07 B5 01 9D 5F 7B 6A BC B3 0F 36 51 C5 20 A3 72 61
 
 
 ## nailyk's
 https://releases.nailyk.fr/repo? 
-* fingerprint: *
 05 F2 69 58 DE 41 24 82 FC 86 81 B4 B3 4E EC A3 7F C0 64 DF 98 B8 EF DC 98 EC EB AB 85 84 F0 78
 
 
 ## Maxxis
 https://pili.qi0.de/fdroid/repo? 
-* fingerprint: *
 83 16 1D 8D 5E C8 4B A3 26 66 EC E6 2E 40 D5 78 34 2C AD 3B 03 EA EE CA 2E 75 E3 96 12 5F DA A0
 
 
 
 ## Submarine
 https://submarine.strangled.net/fdroid/repo? 
-* fingerprint: *
 3D B2 D0 9F 57 32 45 E0 05 B6 A5 4E B5 EB F6 E6 A3 51 D6 A5 16 1C FE EF F1 44 2C 93 95 97 C3 1B
 
 
 ## kuschku.de
-https://repo.kuschku.de/repo
-
-* fingerprint: *
+https://repo.kuschku.de/repo?
 A0 CB C2 C2 9E 38 ED 95 42 F8 6A 11 88 41 2A 60 C5 A7 56 FC 4D 7A 31 C4 C6 22 24 2D 7A D0 21 F2
 
 
 ## Julian Andres Klode's
-https://jak-linux.org/fdroid/repo
-
-* fingerprint: *
+https://jak-linux.org/fdroid/repo?
 C0 0A 81 E4 4B FF 60 65 30 C4 C7 A2 13 7B AC 5F 1C 03 D2 FD EF 6D B3 B8 4C 71 38 6E A9 BF D2 25
 
 
 ## haagch
-https://haagch.frickel.club/files/fdroid/repo
-* fingerprint: *
+https://haagch.frickel.club/files/fdroid/repo?
 38 7A C9 E5 8C 94 81 A6 B1 A8 DC E5 3A 16 E5 36 45 DA 69 48 22 A8 FE 50 C8 77 EF B5 F4 2E 69 33
 
 
 ## Gadgetbridge nightly
-https://freeyourgadget.codeberg.page/fdroid/repo
-* fingerprint: *
+https://freeyourgadget.codeberg.page/fdroid/repo?
 CD 38 1E CC C4 65 AB 32 4E 21 BC C3 35 89 56 15 E0 7E 70 EE 11 E9 FD 1D F3 C0 20 C5 19 4F 00 B2
 
 
 ## Friendiqa
 https://www.ma-nic.de/fdroid/repo?
-* fingerprint: *
 17 96 61 DB B7 26 35 30 02 FD B7 71 DD 8F CA DC 90 7B A5 68 D4 4D AB A3 88 29 15 97 50 30 74 64
 
 
 ## Grobox
 https://grobox.de/fdroid/repo?
-* fingerprint: *
 28 E1 4F B3 B2 80 BC E8 FF 1E 0F 8E 82 72 6F F4 69 23 66 2C EC FF 2A 06 89 10 8C E1 9E 8B 34 7C
 
 
 ## insporation
 https://jhass.github.io/insporation/fdroid/repo?
-* fingerprint: *
 EC 79 2A 58 B3 9D F9 FB B4 66 FB 10 0E 30 E3 84 2F 22 9F DB C6 E2 8D 32 C4 17 F6 A5 B3 0E CC AE
 
 
 ## Corona Contact Tracing Germany 
 https://bubu1.eu/cctg/fdroid/repo?
-* fingerprint: *
 F3 F3 0B 6D 21 2D 84 AE A6 04 C3 DF 00 E9 E4 D4 A3 91 94 A3 3B F6 EC 58 DB 53 AF 0A C4 B4 1B EC
 
 
 ## MM20
 https://fdroid.mm20.de/repo?
-* fingerprint: *
 15 6F BA B9 52 F6 99 64 15 F1 98 F3 F2 96 28 D2 4B 30 E7 25 B0 F0 7A 2B 49 C3 A9 B5 16 1E EE 1A
 
 
 ## Lennart Heinrich
 https://fdroid.ltheinrich.de/
-
-* fingerprint: *
 B9 0F C7 69 1E C5 BE 97 7D CB BC B1 8C 39 84 C7 94 CC AF A5 BB 87 12 ED 2D 64 F9 FD 87 03 B6 36
 
 
 ## J2ghz's
 https://j2ghz.github.io/repo?
-* fingerprint: *
 03 9B C4 1C 19 89 76 8B 5E 62 5A 5A 6A A0 CA DF E7 56 03 21 70 D4 9B 4E 44 1F E9 5C 74 1C 09 A2
 
 
 ## mtmayrhofer
 https://juwelierkassa.at/fdroid/repo?
-* fingerprint: *
 93 02 70 24 8A 02 20 2D 51 75 18 47 4D 0C 02 15 07 0A 53 7D E3 68 1D 87 21 D8 4A 9B 16 93 91 5E
 
 
 ## Lagrange Pre-Release
 https://skyjake.github.io/fdroid/repo?
-* fingerprint: *
 46 AE A2 F2 D8 60 47 AD 65 DA 95 51 26 C6 53 2F 79 B0 5A F2 BF EF FC 5C F1 B4 67 A7 9E 68 6F 86
 
 
@@ -335,21 +302,9 @@ https://fdroid.videlibri.de/repo?
 https://codeberg.org/florian-obernberger/fdroid-repo/raw/branch/main/repo
 
 * fingerprint: *
-5E 91 81 C8 18 BD 1D 28 E8 64 28 21 97 1C 56 94 38 DF 63 2E 67 15 05 FD 6E 9D B6 94 07 22 B5 6F
+5E 91 81 C8 18 BD 1D 28 E8 64 28 21 97 1C 56 94 38 DF 63 2E 67 15 05 FD 6E 9D B6 94 07 22 
 
 
-## InvizBox
-https://update.invizbox.com/fdroid/repo
-
-* fingerprint: *
-FF A1 A8 10 B4 86 08 13 5E EF D7 C6 92 F2 30 61 72 FB 57 85 49 C4 11 1A 70 26 63 74 A1 19 D1 89
-
-
-## StorchPs
-https://fdroid.storchp.de/fdroid/repo
-
-* fingerprint: *
-99 98 5A 7E 73 DC B0 B1 6C 9B DD CE 7A 0B 49 96 F8 80 68 AE 7C 77 1E D5 3E 21 7E 69 CD 1F F1 96
 
 
 ## GitJournal
