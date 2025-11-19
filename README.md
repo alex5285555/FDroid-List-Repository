@@ -56,10 +56,7 @@ https://nanolx.org/fdroid/repo?
 86 2E D9 F1 3A 39 81 43 2B F8 6F E9 3D 14 59 6B 38 1D 75 BE 83 A1 D6 16 E2 D4 4A 12 65 4A D0 15
 
 https://fdroid.metatransapps.com/fdroid/repo? 
-21 40 27 CD 55 30 0B 83 7A 93 B4 37 17 B1 90 DD 48 67 CD B2 0F AA BD 88 53 DE F5 5B D0 FF 6A 0B
-
-https://static.cryptomator.org/android/fdroid/repo? 
-F7 C3 EC 3B 0D 58 8D 3C B5 29 83 E9 EB 1A 74 21 C9 3D 43 39 A2 86 39 8E 71 D7 B6 51 E8 D8 EC DD
+21 40 27 CD 55 30 0B 83 7A 93 B4 37 17 B1 90 DD 48 67 CD B2 0F AA BD 88 53 DE F5 5B D0 
 
 https://fdroid.twinhelix.com/fdroid/repo? 
 7B 03 B0 23 22 09 B2 1B 10 A3 0A 63 89 7D 3C 6B CA 4F 58 FE 29 BC 34 77 E8 E3 D8 CF 8E 30 40 28
@@ -105,9 +102,6 @@ F3 F3 0B 6D 21 2D 84 AE A6 04 C3 DF 00 E9 E4 D4 A3 91 94 A3 3B F6 EC 58 DB 53 AF
 
 https://fdroid.mm20.de/repo?
 15 6F BA B9 52 F6 99 64 15 F1 98 F3 F2 96 28 D2 4B 30 E7 25 B0 F0 7A 2B 49 C3 A9 B5 16 1E EE 1A
-
-https://fdroid.ltheinrich.de/
-B9 0F C7 69 1E C5 BE 97 7D CB BC B1 8C 39 84 C7 94 CC AF A5 BB 87 12 ED 2D 64 F9 FD 87 03 B6 36
 
 https://j2ghz.github.io/repo?
 03 9B C4 1C 19 89 76 8B 5E 62 5A 5A 6A A0 CA DF E7 56 03 21 70 D4 9B 4E 44 1F E9 5C 74 1C 09 A2
