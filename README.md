@@ -67,8 +67,6 @@ https://fdroid.revolt.chat/repo?
 https://bubu1.eu/fdroidclassic/fdroid/repo? 
 51 87 CF D9 9F 08 4F FA B2 AD 60 D9 D1 0B 39 20 3B 89 A4 6D D4 86 23 97 FE 1B 1A 4F 3D 46 62 7A
 
-https://kaffeemitkoffein.de/fdroid/repo? 
-2F 27 5C B8 37 35 FE 79 75 44 9C E8 00 CA 84 07 B5 01 9D 5F 7B 6A BC B3 0F 36 51 C5 20 A3 72 61
 
 https://releases.nailyk.fr/repo? 
 05 F2 69 58 DE 41 24 82 FC 86 81 B4 B3 4E EC A3 7F C0 64 DF 98 B8 EF DC 98 EC EB AB 85 84 F0 78
@@ -129,6 +127,21 @@ https://redreader.org/fdroid/repo?
 
 https://thedoc.eu.org/fdroid/repo?
 B1 35 8F 5B 94 2E 56 76 B2 93 5B 83 F3 9E 3B AA 36 3F 3F DA 9E 53 DB 62 11 35 51 D1 4B 09 A1 73
+
+https://apps.axpos.org/repo?
+56 9A 3F A3 E6 03 D6 8F 21 4A 46 8F B8 A3 68 FF BE 5F 28 1F 57 C6 CD 4B 83 60 57 31 8B C3 77 98
+
+https://brave-browser-apk-release.s3.brave.com/fdroid/repo?
+3C 60 DE 13 5A A1 9E C9 49 E9 98 46 9C 90 8F 71 71 88 5C 1E 28 05 F3 9E B4 03 DD B0 F3 7B 4B D2
+
+https://app.futo.org/fdroid/repo?
+39 D4 78 69 D2 9C BF CE 46 91 D9 F7 E6 94 6A 7B 6D 7E 6F F4 88 34 97 E6 E6 75 74 4E CD FA 6D 6D
+
+https://gitjournal.io/fdroid/repo?
+E2 EE 4A A4 38 0F 0D 3B 3C F8 1E B1 7F 5E 48 F8 27 C3 AA 77 12 2D 9A D3 30 CC 44 16 50 89 45 74
+
+https://cdn.kde.org/android/stable-releases/fdroid/repo?
+13 78 4B A6 C8 0F F4 E2 18 1E 55 C5 6F 96 1E ED 58 44 CE A1 68 70 D3 B3 8D 58 78 0B 85 E1 15 8F
 
 https://fdroid.getsession.org/fdroid/repo?
 DB 0E 52 97 EB 65 CC 22 D6 BD 93 C8 69 94 3B DC FC B6 A0 7D C6 9A 48 A0 DD 8C 7B A6 98 EC 04 E6
