@@ -5,9 +5,8 @@ https://f-droid.org/repo?
 43 23 8D 51 2C 1E 5E B2 D6 56 9F 4A 3A FB F5 52 34 18 B8 2E 0A 3E D1 55 27 70 AB B9 A9 C9 CC AB
 
 https://guardianproject.info/fdroid/repo? 
-B7 C2 EE FD 8D AC 78 06 AF 67 DF CD 92 EB 18 12 6B C0 83 12 A7 F2 D6 F3 86 2E 46 01 3C 7A 61 35
+B7 C2 EE FD 8D AC 78 06 AF 67 DF CD 92 EB 18 12 6B C0 83 12 A7 F2 D6 F3 86 2E 46 01 3C 
 
-https://guardianproject.info/fdroid/archive
 https://guardianproject.info/fdroid/repo? 
 B7 C2 EE FD 8D AC 78 06 AF 67 DF CD 92 EB 18 12 6B C0 83 12 A7 F2 D6 F3 86 2E 46 01 3C 7A 61 35
 
@@ -61,13 +60,6 @@ https://fdroid.metatransapps.com/fdroid/repo?
 https://fdroid.twinhelix.com/fdroid/repo? 
 7B 03 B0 23 22 09 B2 1B 10 A3 0A 63 89 7D 3C 6B CA 4F 58 FE 29 BC 34 77 E8 E3 D8 CF 8E 30 40 28
 
-https://fdroid.revolt.chat/repo? 
-0A 9D 2F 61 C8 65 98 01 71 1E 22 17 78 62 F8 4C 81 34 96 6F 42 79 73 03 7A 8F DF AC FF 07 C4 F2
-
-https://bubu1.eu/fdroidclassic/fdroid/repo? 
-51 87 CF D9 9F 08 4F FA B2 AD 60 D9 D1 0B 39 20 3B 89 A4 6D D4 86 23 97 FE 1B 1A 4F 3D 46 62 7A
-
-
 https://releases.nailyk.fr/repo? 
 05 F2 69 58 DE 41 24 82 FC 86 81 B4 B3 4E EC A3 7F C0 64 DF 98 B8 EF DC 98 EC EB AB 85 84 F0 78
 
@@ -76,9 +68,6 @@ https://pili.qi0.de/fdroid/repo?
 
 https://submarine.strangled.net/fdroid/repo? 
 3D B2 D0 9F 57 32 45 E0 05 B6 A5 4E B5 EB F6 E6 A3 51 D6 A5 16 1C FE EF F1 44 2C 93 95 97 C3 1B
-
-https://repo.kuschku.de/repo?
-A0 CB C2 C2 9E 38 ED 95 42 F8 6A 11 88 41 2A 60 C5 A7 56 FC 4D 7A 31 C4 C6 22 24 2D 7A D0 21 F2
 
 https://haagch.frickel.club/files/fdroid/repo?
 38 7A C9 E5 8C 94 81 A6 B1 A8 DC E5 3A 16 E5 36 45 DA 69 48 22 A8 FE 50 C8 77 EF B5 F4 2E 69 33
@@ -101,8 +90,6 @@ F3 F3 0B 6D 21 2D 84 AE A6 04 C3 DF 00 E9 E4 D4 A3 91 94 A3 3B F6 EC 58 DB 53 AF
 https://fdroid.mm20.de/repo?
 15 6F BA B9 52 F6 99 64 15 F1 98 F3 F2 96 28 D2 4B 30 E7 25 B0 F0 7A 2B 49 C3 A9 B5 16 1E EE 1A
 
-https://j2ghz.github.io/repo?
-03 9B C4 1C 19 89 76 8B 5E 62 5A 5A 6A A0 CA DF E7 56 03 21 70 D4 9B 4E 44 1F E9 5C 74 1C 09 A2
 
 https://juwelierkassa.at/fdroid/repo?
 93 02 70 24 8A 02 20 2D 51 75 18 47 4D 0C 02 15 07 0A 53 7D E3 68 1D 87 21 D8 4A 9B 16 93 91 5E
